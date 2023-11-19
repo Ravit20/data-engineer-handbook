@@ -10,6 +10,8 @@ Great books:
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 - [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 - [The Hundred Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X)
+- [The Observability, The Reality -- Free]
+(https://theravitshow.com/dataobservability)
 
 
 Communities:
@@ -40,7 +42,6 @@ Great YouTube Channels:
 - [Darshil Parmar](https://www.youtube.com/@DarshilParmar)
 - [Andreas Kretz](https://www.youtube.com/c/andreaskayy)
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo)
-- [The Ravit Show](https://youtube.com/@theravitshow)
 - [Azure Lib](https://www.youtube.com/@azurelib-academy)
 
 Newsletters:
@@ -57,6 +58,8 @@ Newsletters:
 - [High Growth Engineer](https://careercutler.substack.com/)
 - [Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/)
 - [Marvelous MLOps](https://marvelousmlops.substack.com/)
+- [The Ravit Show]
+(www.theravitshow.com)
 
 LinkedIn
 
@@ -70,6 +73,8 @@ LinkedIn
 - [Chip Huyen](https://www.linkedin.com/in/chiphuyen/)
 - [Alex Xu](https://www.linkedin.com/in/alexxubyte)
 - [Deepak Goyal](https://www.linkedin.com/in/deepak-goyal-93805a17/)
+- Ravit Jain
+(https://www.linkedin.com/in/ravitjain)
 
 Twitter / X 
 
